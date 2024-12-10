@@ -12,5 +12,4 @@ It's not much but it's honest work
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ChwJnz.github.io.README.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChwJnz&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChwJnz)](https://github.com/anuraghazra/github-readme-stats)
